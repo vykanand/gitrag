@@ -1,0 +1,15 @@
+node_modules/* -diff
+.git/* -diff
+target/* -diff
+lib/* -diff
+build/* -diff
+dist/* -diff
+*.log -diff
+*.tmp -diff
+*.bak -diff
+*.swp -diff
+*.class -diff
+__pycache__/* -diff
+.idea/* -diff
+.vscode/* -diff
+.DS_Store -diff
